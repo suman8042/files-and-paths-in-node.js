@@ -1,4 +1,4 @@
-
+//--------files and paths in node.js-----------
 import fs from "fs/promises"
 import fsn from "fs"
 import path from "path"
